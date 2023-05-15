@@ -1,0 +1,5 @@
+C:/Users/KHALED/Documents/GitHub/Assignment-4/Text Editor/cmake-build-debug/CMakeFiles/Text_library.dir
+C:/Users/KHALED/Documents/GitHub/Assignment-4/Text Editor/cmake-build-debug/CMakeFiles/Text_editor.dir
+C:/Users/KHALED/Documents/GitHub/Assignment-4/Text Editor/cmake-build-debug/CMakeFiles/Assignment_4.dir
+C:/Users/KHALED/Documents/GitHub/Assignment-4/Text Editor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/KHALED/Documents/GitHub/Assignment-4/Text Editor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
